@@ -1,4 +1,9 @@
 # zed-vercel-theme
+
+> [!Note]
+>
+> This is a personal usage fork for [NathanBrodin/zed-vercel-theme](https://github.com/NathanBrodin/zed-vercel-theme), align with the latest color design of vercel.com.
+
 The [Vercel](https://vercel.com) Theme, for [Zed](https://zed.dev)
 
 ## Light
