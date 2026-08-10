@@ -32,4 +32,4 @@ git push origin v0.0.x
 
 ## Acknowledgment
 
-Made by converting this [VSCode theme](https://github.com/gantoreno/vscode-vercel) made by [@gantoreno](https://github.com/gantoreno) using [Zed theme importer](https://zed.dev/blog/user-themes-now-in-preview), and tweaking a few colors.
+Made by converting this [VSCode theme](https://github.com/lumirelle/vscode-vercel) made by [@lumirelle](https://github.com/lumiurelle) using [Zed theme importer](https://zed.dev/blog/user-themes-now-in-preview), and tweaking a few colors.
