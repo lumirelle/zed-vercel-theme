@@ -13,7 +13,7 @@
         "border.variant": "#1a1a1a",
         "border.focused": "#00000000",
         "border.selected": "#1a1a1a",
-        "border.transparent": "#1a1a1a",
+        "border.transparent": "#00000000",
         "border.disabled": "#1a1a1a",
         "elevated_surface.background": "#000000",
         "surface.background": "#000000",
@@ -24,7 +24,8 @@
         "ghost_element.hover": "#1a1a1a",
         "ghost_element.selected": "#1a1a1a",
         "text": "#a0a0a0",
-        "text.muted": "#a0a0a0",
+        "text.muted": "#8f8f8f",
+        "text.placeholder": "#8f8f8f",
         "status_bar.background": "#000000",
         "title_bar.background": "#000000",
         "toolbar.background": "#000000",
@@ -88,7 +89,7 @@
             "color": "#47a8ff"
           },
           "constructor": {
-            "color": "#00ca50"
+            "color": "#c472fb"
           },
           "emphasis": {
             "color": "#ededed",
@@ -126,7 +127,7 @@
             "color": "#00ca50"
           },
           "string.regex": {
-            "color": "#00ca50"
+            "color": "#47a8ff"
           },
           "string.special": {
             "color": "#00ca50"
@@ -166,7 +167,7 @@
         "border.variant": "#ebebeb",
         "border.focused": "#fafafa00",
         "border.selected": "#ebebeb",
-        "border.transparent": "#ebebeb",
+        "border.transparent": "#fafafa00",
         "border.disabled": "#ebebeb",
         "elevated_surface.background": "#ffffff",
         "surface.background": "#ffffff",
@@ -177,7 +178,8 @@
         "ghost_element.hover": "#f2f2f2",
         "ghost_element.selected": "#f2f2f2",
         "text": "#4d4d4d",
-        "text.muted": "#4d4d4d",
+        "text.muted": "#8b8b8b",
+        "text.placeholder": "#8b8b8b",
         "status_bar.background": "#ffffff",
         "title_bar.background": "#ffffff",
         "toolbar.background": "#ffffff",
@@ -241,7 +243,7 @@
             "color": "#005ff2"
           },
           "constructor": {
-            "color": "#107d32"
+            "color": "#7d00cc"
           },
           "emphasis": {
             "color": "#171717",
@@ -279,7 +281,7 @@
             "color": "#107d32"
           },
           "string.regex": {
-            "color": "#107d32"
+            "color": "#005ff2"
           },
           "string.special": {
             "color": "#107d32"
