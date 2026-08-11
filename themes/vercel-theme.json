@@ -26,6 +26,7 @@
         "text": "#a0a0a0",
         "text.muted": "#8f8f8f",
         "text.placeholder": "#8f8f8f",
+        "text.accent": "#ededed",
         "status_bar.background": "#000000",
         "title_bar.background": "#000000",
         "toolbar.background": "#000000",
@@ -76,7 +77,8 @@
         "modified": "#ff9300",
         "players": [
           {
-            "cursor": "#ededed"
+            "cursor": "#ededed",
+            "selection": "#6c6c6c3d"
           }
         ],
         "syntax": {
@@ -181,12 +183,13 @@
         "background": "#ffffff",
         "element.background": "#171717",
         "element.hover": "#f2f2f2",
-        "element.selected": "#f2f2f2",
+        "element.selected": "#ebebeb",
         "ghost_element.hover": "#f2f2f2",
-        "ghost_element.selected": "#f2f2f2",
+        "ghost_element.selected": "#ebebeb",
         "text": "#4d4d4d",
         "text.muted": "#8b8b8b",
         "text.placeholder": "#8b8b8b",
+        "text.accent": "#171717",
         "status_bar.background": "#ffffff",
         "title_bar.background": "#ffffff",
         "toolbar.background": "#ffffff",
@@ -237,7 +240,8 @@
         "modified": "#aa4d00",
         "players": [
           {
-            "cursor": "#171717"
+            "cursor": "#171717",
+            "selection": "#bebebe33"
           }
         ],
         "syntax": {
