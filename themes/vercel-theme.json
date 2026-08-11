@@ -74,7 +74,11 @@
         "hint": "#8f8f8f",
         "ignored": "#a0a0a0",
         "modified": "#ff9300",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#ededed"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#47a8ff"
@@ -118,6 +122,9 @@
             "color": "#47a8ff"
           },
           "operator": {
+            "color": "#ff4d8d"
+          },
+          "property.json_key": {
             "color": "#ff4d8d"
           },
           "string": {
@@ -228,7 +235,11 @@
         "hint": "#8b8b8b",
         "ignored": "#4d4d4d",
         "modified": "#aa4d00",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#171717"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#005ff2"
@@ -272,6 +283,9 @@
             "color": "#005ff2"
           },
           "operator": {
+            "color": "#c41562"
+          },
+          "property.json_key": {
             "color": "#c41562"
           },
           "string": {
