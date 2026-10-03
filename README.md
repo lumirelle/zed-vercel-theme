@@ -4,7 +4,7 @@
 >
 > This is a personal usage fork for [NathanBrodin/zed-vercel-theme](https://github.com/NathanBrodin/zed-vercel-theme), built from the [vercel.nvim](https://github.com/lumirelle/vercel.nvim) palette.
 
-The [Vercel](https://vercel.com) Theme, for [Zed](https://zed.dev)
+The Vercel Theme, based on the [Geist design system](https://vercel.com/geist/introduction), for [Zed](https://zed.dev)
 
 ## Light
 
