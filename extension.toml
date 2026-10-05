@@ -1,6 +1,6 @@
 id = "vercel-theme"
 name = "Vercel Theme"
-version = "0.1.0"
+version = "1.0.0"
 schema_version = 1
 authors = ["Lumirelle <lumirelle@outlook.com>"]
 description = "▲ Vercel light and dark theme, based on the Geist design system (https://vercel.com/geist/introduction)."
